@@ -40,3 +40,10 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 28px;
 }
 
+h1#EJEMPLO {
+    TEXT-ALIGN: center;
+    COLOR: cornsilk;
+    BACKGROUND-COLOR: burlywood;
+    font-size: 45px;
+    font-family: monospace;
+}
